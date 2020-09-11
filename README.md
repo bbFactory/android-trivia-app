@@ -1,16 +1,26 @@
-# Android Trivia App (안드로이드 퀴즈여행 앱)
+## :mag: Android Trivia App (안드로이드 퀴즈여행 앱) :mag:
 Udacity 과정 Lesson3 실습 (링크 : https://www.udacity.com/) <br>
 This is the toy app for lesson 3 of the [Android App Development in Kotlin course on Udacity](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012).
 
 
 ## Descriptions
-#### Core Topic: Navigation
-
 The Android Trivia application is an application that asks the user trivia questions about Android development.  
 It makes use of the Navigation component within Jetpack to move the user between different screens.  Each screen is implemented as a Fragment.
 The app navigates using buttons, the Action Bar, and the Navigation Drawer.
 Since students haven't yet learned about saving data or the Android lifecycle, it tries to eliminate bugs caused by configuration changes. 
 <br>
+
+## :bulb: Focused on: Navigation :bulb:
+* I've Learned
+  * Navigation component
+  * Principles of Navigation
+  * Conditional Navigation
+  * BackStack Manipulation
+  * Animation with Navigation
+  * Support for Up button
+  * Menu
+  * Safe Arguments
+  * Explicit / Implicit Intents
 
 ## Playing the App
 
